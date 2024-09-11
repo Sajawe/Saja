@@ -1,1 +1,0 @@
-print("Common sense is like deodorant.The people who need it most never use it")
